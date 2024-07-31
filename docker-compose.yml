@@ -1,6 +1,6 @@
 services:
   hello-go:
-    container_name: hello-go
+    container_name: monitora-site
     build: .
     volumes:
       - ./app:/go/src
