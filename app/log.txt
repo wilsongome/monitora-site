@@ -1,0 +1,27 @@
+https://www.alura.com.br -> online: true
+https://homologam2m.oktor.com.br -> online: true
+https://appm2m.oktor.com.br -> online: true
+https://www.google.com.br -> online: true
+https://www.alura.com.br -> online: true
+https://homologam2m.oktor.com.br -> online: true
+https://appm2m.oktor.com.br -> online: true
+https://www.google.com.br -> online: true
+https://www.alura.com.br -> online: true
+https://homologam2m.oktor.com.br -> online: true
+https://appm2m.oktor.com.br -> online: true
+https://www.google.com.br -> online: true
+27/06/2024 20:53:34 | https://www.alura.com.br -> online: true
+27/06/2024 20:53:35 | https://homologam2m.oktor.com.br -> online: true
+27/06/2024 20:53:35 | https://appm2m.oktor.com.br -> online: true
+27/06/2024 20:53:35 | https://www.google.com.br -> online: true
+27/06/2024 20:53:41 | https://www.alura.com.br -> online: true
+27/06/2024 20:53:41 | https://homologam2m.oktor.com.br -> online: true
+27/06/2024 20:53:41 | https://appm2m.oktor.com.br -> online: true
+27/06/2024 20:53:41 | https://www.google.com.br -> online: true
+27/06/2024 20:53:46 | https://www.alura.com.br -> online: true
+27/06/2024 20:53:47 | https://homologam2m.oktor.com.br -> online: true
+27/06/2024 20:53:47 | https://appm2m.oktor.com.br -> online: true
+27/06/2024 20:53:47 | https://www.google.com.br -> online: true
+31/07/2024 03:06:57 | https://vinhosnamorados.com -> online: false
+31/07/2024 03:07:03 | https://vinhosnamorados.com -> online: false
+31/07/2024 03:07:08 | https://vinhosnamorados.com -> online: false

@@ -1,0 +1,6 @@
+services:
+  hello-go:
+    container_name: hello-go
+    build: .
+    volumes:
+      - ./app:/go/src
